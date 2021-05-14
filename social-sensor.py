@@ -51,3 +51,4 @@ if __name__ == "__main__":
     args = argsParser()
     socialSensor(args)
 
+#to initiate, open python, load in all that needs, and type python main.py -i ‘image’
