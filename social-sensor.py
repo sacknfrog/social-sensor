@@ -1,3 +1,4 @@
+# @mic34 on repl Original Link: https://replit.com/@mic34/MockSocialSensor#main.py
 import cv2
 import imutils
 import numpy as np
@@ -50,4 +51,3 @@ if __name__ == "__main__":
     args = argsParser()
     socialSensor(args)
 
-#to initiate, open python, load in all that needs, and type python main.py -i ‘image’
